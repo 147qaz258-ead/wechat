@@ -1,0 +1,10 @@
+{
+  "model": "ep-20260109183327-m5ndl",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello"
+    }
+  ],
+  "temperature": 0.3
+}
